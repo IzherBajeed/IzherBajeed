@@ -232,7 +232,7 @@ Python • AI • Generative AI • Power BI • SQL
 <img src="https://img.shields.io/badge/GitHub-IzherBajeed-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/izher_bajeed/">
 <img src="https://img.shields.io/badge/LeetCode-410%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
